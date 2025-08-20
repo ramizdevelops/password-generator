@@ -16,7 +16,9 @@ A simple Python **GUI app** (Tkinter) that generates strong random passwords.
 ## Preview
 Here’s how the app looks:
 
-![Password Generator GUI](screenshot.png)
+<p align="center">
+  <img src="./image/password_generator_gui.png" alt="Project GUI" width="600"><br>
+</p>
 
 ---
 
@@ -44,4 +46,4 @@ Tkinter (built-in, no installation needed)
 
 ## License
 
-This project is licensed under the MIT License
+This project is licensed under the [MIT License](LICENSE)
